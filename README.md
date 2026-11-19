@@ -50,7 +50,9 @@ The model performance is evaluated using the R² Score.
 
 This scatter plot compares the actual house prices with the predicted house prices. The red dashed line represents the ideal prediction line.
 
-![Actual vs Predicted House Prices](images/actual_vs_predicted.png)
+
+<img width="702" height="547" alt="image" src="https://github.com/user-attachments/assets/1c1b17ae-179b-4157-887a-0bf49de3c61d" />
+
 
 ## How to Run
 1. Clone this repository.
